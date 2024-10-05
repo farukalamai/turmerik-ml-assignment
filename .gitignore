@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 tnv/
+data/clinicaltrials_data/
+data/matching_results.csv
